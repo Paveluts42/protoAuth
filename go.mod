@@ -1,8 +1,7 @@
-module protosAuth
+module github.com/Paveluts42/protoAuth
 
 go 1.23.0
 
-toolchain go1.23.10
 
 require (
 	google.golang.org/grpc v1.73.0
